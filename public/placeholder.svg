@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Anthony Fait">
+  <rect width="64" height="64" rx="14" fill="#0284c7"/>
+  <path fill="#f8fafc" fill-rule="evenodd" d="M11 50 L22.2 16h6.6L40 50h-6.2l-2.5-8.2H19.7L17.2 50H11zm9.8-13.6h10.4L26 25.2l-5.2 11.2z"/>
+  <path fill="#f8fafc" d="M43 16h16v6.2H49.6V29H57v6.2H49.6V50H43V16z"/>
+</svg>
